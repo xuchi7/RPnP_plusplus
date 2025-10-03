@@ -12,32 +12,12 @@ Perspective-n-point is a fundamental problem in multi-view geometry, yet two cri
 
 Comming soon ...
 
-<p align="center">
-<img src="./assets/image-20251003143213574.png" alt="" width="420">
-</p>
-
-<p align="center">
-<img src="./assets/image-20251003143237435.png" alt="" width="500">
-</p>
-
 ## Datasets
 
 Please download the files via the links below, then unzip the file to the root directory of this repository.
 
 - Synthetic data [comming soon ...]()
 
-![image-20251003142701390](./assets/image-20251003142701390.png)
-
 - Real data [comming soon ...]()
 
-<p align="center">
-<img src="./assets/image-20251003140009786.png" alt="" width="420">
-</p>
-
-![image-20251003135836131](./assets/image-20251003135836131.png)
-
 - Star-River Complex [comming soon ...]()
-
-![image-20251003142000054](./assets/image-20251003142000054.png)
-
-![image-20251003135357584](./assets/image-20251003135357584.png)
