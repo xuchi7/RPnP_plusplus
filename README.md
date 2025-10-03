@@ -17,9 +17,9 @@ Please download the files via the links below, then unzip the file to the root d
 - Synthetic data [comming soon ...]()
 - Real data [comming soon ...]()
 
-<center>
+<p align="center">
 <img src="./assets/image-20251003140009786.png" alt="" width="420">
-</center>
+</p>
 
 ![image-20251003135836131](./assets/image-20251003135836131.png)
 
