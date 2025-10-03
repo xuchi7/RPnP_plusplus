@@ -15,7 +15,7 @@ Comming soon ...
 - Synthetic data
 - Real data
 
-<img src="./assets/image-20251003140009786.png" alt="" width="500">
+<center><img src="./assets/image-20251003140009786.png" alt="" width="420"></center>
 
 ![image-20251003135836131](./assets/image-20251003135836131.png)
 
