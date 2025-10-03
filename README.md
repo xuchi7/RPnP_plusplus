@@ -1,6 +1,8 @@
 # A Hough Voting based 2-Point RANSAC Solution to the Perspective-n-Point Problem
 
-<center>Chi Xu, Tingrui Guo, Yuan Huang, Li Cheng</center>
+<p align="center">
+Chi Xu, Tingrui Guo, Yuan Huang, Li Cheng
+</p>
 
 ## Abstract
 
