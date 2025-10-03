@@ -17,6 +17,9 @@ Comming soon ...
 Please download the files via the links below, then unzip the file to the root directory of this repository.
 
 - Synthetic data [comming soon ...]()
+
+![image-20251003142701390](./assets/image-20251003142701390.png)
+
 - Real data [comming soon ...]()
 
 <p align="center">
