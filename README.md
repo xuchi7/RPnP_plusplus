@@ -1,6 +1,6 @@
 # A Hough Voting based 2-Point RANSAC Solution to the Perspective-n-Point Problem
 
-Chi Xu, Tingrui Guo, Yuan Huang, Li Cheng
+<center>Chi Xu, Tingrui Guo, Yuan Huang, Li Cheng</center>
 
 ## Abstract
 
@@ -8,12 +8,17 @@ Perspective-n-point is a fundamental problem in multi-view geometry, yet two cri
 
 ## Source Code
 
-comming soon ...
+Comming soon ...
 
 ## Datasets
 
-Synthetic data
+- Synthetic data
+- Real data
 
-Real data
+![image-20251003140009786](./assets/image-20251003140009786.png)
 
-Star-River Complex
+![image-20251003135836131](./assets/image-20251003135836131.png)
+
+- Star-River Complex
+
+![image-20251003135357584](.\assets\image-20251003135357584.png)
