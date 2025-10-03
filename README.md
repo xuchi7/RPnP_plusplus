@@ -15,10 +15,10 @@ Comming soon ...
 - Synthetic data
 - Real data
 
-![image-20251003140009786](./assets/image-20251003140009786.png)
+![image-20251003140009786](./assets/image-20251003140009786.png =300x)
 
 ![image-20251003135836131](./assets/image-20251003135836131.png)
 
 - Star-River Complex
 
-![image-20251003135357584](.\assets\image-20251003135357584.png)
+![image-20251003135357584](./assets/image-20251003135357584.png)
