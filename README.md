@@ -76,7 +76,7 @@ data/
     RealImages/
         brandenburg_gate/
         buckingham_palace/
-        ... (totally 10 scenes, each containing corresponding images)
+        ... (totally selected 10 scenes, each containing corresponding images)
 ```
 
 ---
@@ -170,6 +170,8 @@ main_real_show_images.m
 ```
 
 * Images are located in `data/RealImages/`
+
+which can be downloaded from https://www.cs.ubc.ca/~kmyi/imw2020/data.html
 
 ---
 
